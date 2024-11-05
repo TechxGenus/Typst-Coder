@@ -1,0 +1,15 @@
+tqdm
+pandas
+datasets
+sglang[all]
+openai
+numba
+numpy
+ninja
+torch
+packaging
+transformers
+liger-kernel
+tensorboard
+accelerate
+deepspeed<=0.14.5
